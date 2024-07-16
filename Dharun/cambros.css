@@ -1,0 +1,177 @@
+.desktop-1 .container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.desktop-1 {
+  padding-bottom: 35px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.desktop-1 .corporate-ads {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  margin: 0 19.5px 27px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Times New Roman', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 35px;
+  color: #000000;
+}
+.desktop-1 .where-visuals-meet-creativity {
+  margin-left: 6.1px;
+  overflow-wrap: break-word;
+  font-family: 'Times New Roman', 'Roboto Condensed';
+  font-style: italic;
+  font-weight: 400;
+  font-size: 25px;
+  color: #FFFFFF;
+}
+.desktop-1 .social-marketing {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  margin: 0 19.8px 27px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Times New Roman', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 35px;
+  color: #000000;
+}
+.desktop-1 .product-ads {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  margin: 0 12.5px 27px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Times New Roman', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 35px;
+  color: #000000;
+}
+.desktop-1 .family-events {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  margin: 0 7.6px 27px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Times New Roman', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 35px;
+  color: #000000;
+}
+.desktop-1 .cam-bros {
+  position: absolute;
+  left: 71px;
+  top: 0px;
+  overflow-wrap: break-word;
+  font-family: 'Kumbh Sans';
+  font-weight: 800;
+  font-size: 100px;
+  color: #FFFFFF;
+}
+.desktop-1 .advertisements {
+  margin: 0 8.5px 16px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kumbh Sans';
+  font-weight: 800;
+  font-size: 30px;
+  color: #FFFFFF;
+}
+.desktop-1 .innovative-solutions {
+  margin-right: 11.6px;
+  overflow-wrap: break-word;
+  font-family: 'Times New Roman', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 50px;
+  background: linear-gradient(90deg, #1C08FF, #2E1CFF, #0628DB, #080FC0, #706DF9, #9498FF);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+.innovative-solutions-sub142 {
+  font-family: 'Yesteryear', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 1.333;
+  background: linear-gradient(90deg, #1C08FF, #2E1CFF, #0628DB, #080FC0, #706DF9, #9498FF);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+.desktop-1 .vector {
+  margin: 4px 0 1px 0;
+  width: 35px;
+  height: 30px;
+}
+.desktop-1 .vector-1 {
+  margin-bottom: 1.3px;
+  width: 33.9px;
+  height: 33.7px;
+}
+.desktop-1 .vector-2 {
+  width: 35px;
+  height: 35px;
+}
+.desktop-1 .revolutionize-advertising-landscape {
+  margin: 16px 0 7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Sorts Mill Goudy';
+  font-style: italic;
+  font-weight: 400;
+  font-size: 35px;
+  color: #000000;
+}
+.desktop-1 .body {
+  opacity: 0.2;
+  background: url('image1.jpg');
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 811px;
+}
+.desktop-1 .creative-ad-reels {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  margin: 0 16.3px 237px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Times New Roman', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 35px;
+  color: #000000;
+}
+.desktop-1 .container-1 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 0 0 20px 20px;
+  background: url('image2.jpg');
+  position: relative;
+  margin-bottom: 39px;
+  padding: 121px 80px 21px 80px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-1 .container-2 {
+  margin-right: 2.1px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 30px;
+  width: 163.9px;
+  box-sizing: border-box;
+}
+.desktop-1 .container-3 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.desktop-1 .container-4 {
+  margin: 0 0 68px 2.5px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
